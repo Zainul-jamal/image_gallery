@@ -148,7 +148,7 @@ const App = () => {
       </div>
     </div>
   </section>
-  GitHub
+<marquee behavior="" direction=""><p className="font-serif">Zain ul Abedin</p></marquee>
 </>
 
 
